@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./logo2.png" width="400">
+  <img src="https://github.com/bard-rr/.github/blob/main/profile/logo2.png?raw=true" width="400">
 </p>
  
 [![Version](https://img.shields.io/npm/v/bardrr)](https://www.npmjs.com/package/bardrr)
