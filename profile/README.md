@@ -8,13 +8,10 @@
 
 # Bard
 
-<!-- toc -->
-
 - [Description](#Description)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Scripting](#scripting)
-<!-- tocstop -->
+- [Prerequisites](#Prerequisites)
+- [Recorder](#Recorder)
+- [Replayer](#Replayer)
 
 # Description
 
@@ -22,7 +19,7 @@ Bard is a session replay tool that can be auto-deployed to AWS or set up using a
 
 # Usage
 
-## Prerequisites
+# Prerequisites
 
 - an [AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default&tag=soumet-20)
 - `npm` is [installed](https://www.npmjs.com/get-npm)
@@ -30,7 +27,7 @@ Bard is a session replay tool that can be auto-deployed to AWS or set up using a
 - an [AWS named profile](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
 - the AWS CDK command-line tool is [installed](https://docs.aws.amazon.com/cdk/latest/guide/cli.html?tag=soumet-20)
 
-## Recorder
+# Recorder
 
 First install the npm package into your project.
 
@@ -49,6 +46,6 @@ new Agent().start({appName: "Party App", endpoint: "http://www.myfancyapp.com"})
 
 More Information can be found [Here](https://github.com/bard-rr/agent)
 
-## Replayer
+# Replayer
 
 ??????????
