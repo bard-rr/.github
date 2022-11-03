@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bard-rr/.github/blob/main/profile/Asset%2010-8.png?raw=true" width="300">
+  <img src="https://raw.githubusercontent.com/bard-rr/.github/main/profile/Asset%2010-8.png" width="300">
 </p>
  
 [![Version](https://img.shields.io/npm/v/bardrr)](https://www.npmjs.com/package/bardrr)
