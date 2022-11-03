@@ -2,6 +2,10 @@
   <img src="https://github.com/bard-rr/.github/blob/main/profile/Asset%2010-8.png?raw=true" width="300">
 </p>
  
+[![Version](https://img.shields.io/npm/v/bardrr)](https://www.npmjs.com/package/bardrr)
+[![Downloads/week](https://img.shields.io/npm/dt/bardrr)](https://npmjs.org/package/bardrr)
+[![License](https://img.shields.io/npm/l/monsoon-load-testing.svg)](https://github.com/minhphanhvu/bardrr/blob/master/package.json)
+
 # Bard
 
 <!-- toc -->
