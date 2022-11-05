@@ -61,7 +61,7 @@ The replayer will then be running on port 3003.
 # Infrastructure
 
 <p align="center">
-  <img src="infra.JPG" width="1000">
+  <img src="https://github.com/bard-rr/.github/blob/main/profile/infra.JPG?raw=true" width="600">
 </p>
 
 ## Agent
