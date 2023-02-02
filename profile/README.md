@@ -95,4 +95,4 @@ This is the user interface for our application. The UI allows users to view all 
 
 # Website
 
-You can learn more about us and our tool [here](oursupercoolwebsite.com).
+You can learn more about us and our tool [here](https://bard-rr.com/).
